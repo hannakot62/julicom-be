@@ -1,6 +1,5 @@
 package com.hannakot62.be.service;
 
-import com.hannakot62.be.model.Image;
 import com.hannakot62.be.model.News;
 
 import java.util.List;
