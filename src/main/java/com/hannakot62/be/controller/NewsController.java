@@ -1,6 +1,5 @@
 package com.hannakot62.be.controller;
 
-import com.hannakot62.be.model.Image;
 import com.hannakot62.be.model.News;
 import com.hannakot62.be.service.NewsService;
 import org.springframework.beans.factory.annotation.Autowired;
