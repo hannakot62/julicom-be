@@ -1,6 +1,5 @@
 package com.hannakot62.be.service;
 
-import com.hannakot62.be.model.SpacePart;
 import com.hannakot62.be.model.Users;
 
 import java.util.List;
